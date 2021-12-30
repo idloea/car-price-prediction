@@ -10,8 +10,12 @@ The following project consists in one scenario in which we will have to analyze 
 4.	Train a model for the prediction of the price. Explain why I chose the model that I have trained.
 5.	Test the model and obtain some performance metrics from it. Does it have a good performance? Why?
 6.	Would you say that you have enough information to predict the price of an Electric Vehicle of the same class? Why?
-**
-Used Technologies:**
+
+**Content:**
+- _Code_: car-price-prediction.ipynb
+- _Data_: cclass.csv
+
+**Requirements:**
 - Python
 - Jupyter Notebook
 
