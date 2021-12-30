@@ -14,3 +14,6 @@ Steps:
 Used Technologies:
 - Python
 - Jupyter Notebook
+
+Feedback:
+Any feedback is welcome!
