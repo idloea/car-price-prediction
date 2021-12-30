@@ -15,6 +15,9 @@ Used Technologies:**
 - Python
 - Jupyter Notebook
 
-**Feedback:**
+**Contact:**
 
-Any feedback is welcome!
+- GitHub: https://github.com/idloea
+- LinkedIn: https://www.linkedin.com/in/ikerdelomaosorio/
+
+Feel free to contact me regarding any discussing or feedback about the project
